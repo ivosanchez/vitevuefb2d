@@ -1,0 +1,29 @@
+{
+    "name": "vite-playground",
+    "version": "0.0.0",
+    "license": "BSD-3-Clause",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "@tailwindcss/forms": "^0.2.1",
+        "date-fns": "^2.17.0",
+        "firebase": "^8.2.7",
+        "vue": "^3.0.5",
+        "vue-router": "4"
+    },
+    "devDependencies": {
+        "@iconify/json": "^1.1.309",
+        "@vitejs/plugin-vue": "^1.1.2",
+        "@vue/compiler-sfc": "^3.0.5",
+        "autoprefixer": "^10.2.4",
+        "postcss": "^8.2.4",
+        "tailwindcss": "^2.0.2",
+        "vite": "^2.0.0",
+        "vite-plugin-components": "^0.6.12",
+        "vite-plugin-icons": "^0.3.2",
+        "vite-plugin-pages": "^0.4.5"
+    }
+}
